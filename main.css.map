@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/gaston.e.orellano/github/gastonorellano.github.io",
+	"sourceRoot": "/Users/gaston.e.orellano/doc's gaston.e.orellano/OneDrive/github/gastonorellano.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

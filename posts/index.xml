@@ -5,8 +5,95 @@
         <description>Recent content in Posts on Gastón Orellano&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-ar</language>
-        <lastBuildDate>Sun, 12 Apr 2020 16:47:42 -0300</lastBuildDate>
+        <copyright>2020</copyright>
+        <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Y si arrancamos</title>
+            <link>/posts/y-si-arrancamos/</link>
+            <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/y-si-arrancamos/</guid>
+            <description>Como commenzar un empredimiento tecnológico Por lo menos es mi vivencia y vision
+Hoy, despues de tanto pensar decidi darle forma a una idea que me venia rondando la cabeza hace varios años, esta idea es comenzar mi propio proyecto informático. Más de una vez, he tenido las ideas y no las he implementado a tiempo y después de un para de años, las ha visto implementadas por otros, no se si a mi me hubiera salida hacerla, si hubiera tenido la fuerza, o me hubiera quedado en el camino.</description>
+            <content type="html"><![CDATA[<h2 id="como-commenzar-un-empredimiento-tecnológico">Como commenzar un empredimiento tecnológico</h2>
+<p><em>Por lo menos es mi vivencia y vision</em></p>
+<p>Hoy, despues de tanto pensar decidi darle forma a una idea que me venia rondando la cabeza hace varios años,
+esta idea es comenzar mi propio proyecto informático.
+Más de una vez, he tenido las ideas y no las he implementado a tiempo y después de un para de años, las ha visto implementadas por otros, no se si a mi me hubiera salida hacerla, si hubiera tenido la fuerza, o me hubiera quedado en el camino.
+Bueno <strong>esta vez decidí no quedarme con la duda</strong>.</p>
+<h3 id="los-primeros-pasos">Los primeros pasos</h3>
+<h5 id="que-nombre-irá">¿Que nombre irá?</h5>
+<p>Nunca fuí bueno para los nombre, siempre le he puesto una contracciones de nombre de mis hijos, o el nombre del primero de mis hijos ( cuando tenía uno solo).
+Esta vez, tenía que buscar un nombre que sea más que eso.</p>
+<p>Con un amigo, que digo amigo, hermano que me dio la vida, siempre hablamos de la infancia / adolescencia de en una zona humilde (hoy mal llamada vulnerable), en la cual, siempre me sentí identificado con él. El creciò en Rafael Castillo, (para los que no conocen es un barrio periferico de AMBA), yo me crie en un barrio igual.
+Mi barrio, de infancia, todavía sigue siendo de tierra las calles, sin gas natural de red, mi casa era hecha de barro y techos de chapa.<br>
+No es que esté romantizando la pobreza, es ver el camino recorrido. Ver que con muchisimo esfuerzo, y un % minimo de suerte.</p>
+<p>Para finalizar el nombre que elegí, es Castillo, y como voy a trabajar para que sea de alcance global, el nombre será <em><strong>Castillo del sur</strong></em> pero como dige, es con proyección global será <strong>SUDA KASTELO</strong>. (Castillo del sur en Esperanto).</p>
+<h5 id="pasos-que-he-hecho-hasta-ahora">Pasos que he hecho hasta ahora</h5>
+<p>Hasta ahora, he registrado el dominio <a href="http://www.sudakastelo.com">sudakastelo.com</a>, <a href="http://www.sudakastelo.com.ar">sudakastelo.com.ar</a> y <a href="http://sudakastelo.app">sudakastelo.app</a>.</p>
+<p>El dominio .app es nuevo, lo utilizare para que todos lo referente a la api utilice este. Todo lo referente a la comercialización ira en los dominios .com y .com.ar.</p>
+<p>Todo esto, fue una inversion de USD 90, entre los tres dominios.</p>
+<h5 id="otras-inversiones">Otras inversiones</h5>
+<p>Otras inversiones que hemos realizado para el comienzo es la compra de licencias de Extensiones de Chrome y Android.
+Todavia no hemos contratado la licencia de App Store ya que esa dura una año y la inversión es de USD 100.</p>
+<table>
+<thead>
+<tr>
+<th>Fecha</th>
+<th>Descripcion</th>
+<th>Importe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01-ene</td>
+<td>Licencia de desarrollo de Android</td>
+<td>USD 20,00</td>
+</tr>
+<tr>
+<td>01-ene</td>
+<td>Equipos de trabajo (Laptop/mobiles)</td>
+<td>USD 2500,00</td>
+</tr>
+<tr>
+<td>12-may</td>
+<td>Licencia para desarrollar Chrome Extension</td>
+<td>USD 5,00</td>
+</tr>
+<tr>
+<td>12-may</td>
+<td>Impuesto para desarrollar Chrome Extension</td>
+<td>USD 1,45</td>
+</tr>
+<tr>
+<td>2-jun</td>
+<td>Dominio sudakastelo.com.ar</td>
+<td>USD 3,81</td>
+</tr>
+<tr>
+<td>3-jun</td>
+<td>Compra .com / .app</td>
+<td>USD 86,83</td>
+</tr>
+<tr>
+<td>2-jun</td>
+<td>50% diseño de Marca</td>
+<td>USD 49,44</td>
+</tr>
+</tbody>
+</table>
+<p>Son 4 dispositivos, una laptop mac + un celular iphone, un celular android
+Se necesitan los dispositivos Apple ya que para desarrollar en esa plataforma se necesita compilar y testear sobre ella.</p>
+<h5 id="por-ultimo-el-capital-de-trabajo">Por ultimo el capital de trabajo</h5>
+<p>Hasta ahora, le he dedicado una cantidad de 20 hs, las cuales le he robado al sueño.
+Por el momento no he dejado mi trabajo en relación de dependencia, pero se que en algun momento deberé hacer un salto de fe. Para ese salto me estoy preparando de forma, Psicologica y financiera.
+Psicologica, porque las incertidumbres generan ansiedad, malhumor, angustia y otros transtornos.</p>
+<p>Y la Financiera, porque al no tener el flujo de fondos periodico, generá posibles chasflow retrasado que pueden complicar la economia de cualquier familia.</p>
+<p><strong>Veremos como siguee esta aventura</strong></p>
+]]></content>
+        </item>
         
         <item>
             <title>Creating a New Theme</title>
@@ -822,17 +909,6 @@ $ vi themes/zafta/layouts/_default/single.html
 </code></pre><p>Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn&rsquo;t.</p>
 <h3 id="dont-repeat-yourself">Don&rsquo;t Repeat Yourself</h3>
 <p>DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&rsquo;re figuring that out, accept that you&rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&rsquo;s okay to delay splitting up a template.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Y si migramos a GraphQL</title>
-            <link>/posts/graphql/</link>
-            <pubDate>Sun, 12 Apr 2020 16:47:42 -0300</pubDate>
-            
-            <guid>/posts/graphql/</guid>
-            <description>Introducción </description>
-            <content type="html"><![CDATA[<h2 id="introducción">Introducción</h2>
 ]]></content>
         </item>
         
